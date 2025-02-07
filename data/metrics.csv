@@ -1,0 +1,36 @@
+Iteration 1 Overall Scores (Method: sobel)
+Overall Precision,Overall Recall,Overall F1 Score
+0.000723872011771178,0.39599999997614377,0.0014385305893514601
+Iteration 2 Overall Scores (Method: canny)
+Overall Precision,Overall Recall,Overall F1 Score
+0.00040829578031338013,0.2689325295056283,0.0008113973965035642
+Iteration 3 Overall Scores (Method: canny)
+Overall Precision,Overall Recall,Overall F1 Score
+0.00040829578031338013,0.2689325295056283,0.0008113973965035642
+Iteration 4 Overall Scores (Method: canny)
+Overall Precision,Overall Recall,Overall F1 Score
+0.0004814120573761591,0.24819884301770181,0.0009558879800692308
+Iteration 5 Overall Scores (Method: canny)
+Overall Precision,Overall Recall,Overall F1 Score
+0.0005746837051829977,0.22625622788705432,0.0011398811342786977
+Iteration 6 Overall Scores (Method: sobel)
+Overall Precision,Overall Recall,Overall F1 Score
+0.000723872011771178,0.39599999997614377,0.0014385305893514601
+Iteration 7 Overall Scores (Method: sobel)
+Overall Precision,Overall Recall,Overall F1 Score
+0.00014363832249074482,0.10599999999259449,0.0002855613790379429
+Iteration 8 Overall Scores (Method: sobel)
+Overall Precision,Overall Recall,Overall F1 Score
+0.00014363832249074482,0.10599999999259449,0.0002855613790379429
+Iteration 9 Overall Scores (Method: canny)
+Overall Precision,Overall Recall,Overall F1 Score
+0.03190665176235786,0.3213504082450589,0.05456316583257063
+Iteration 10 Overall Scores (Method: sobel)
+Overall Precision,Overall Recall,Overall F1 Score
+0.032795767647991164,0.4377344463064164,0.0577439110775774
+Iteration 11 Overall Scores (Method: hed)
+Overall Precision,Overall Recall,Overall F1 Score
+0.048994117492582784,0.3478164906856038,0.07968586417615624
+Iteration 12 Overall Scores (Method: hed)
+Overall Precision,Overall Recall,Overall F1 Score
+0.04846669164416704,0.348520313151809,0.0789994843671891
